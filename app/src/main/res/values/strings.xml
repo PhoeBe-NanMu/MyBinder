@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyBinder</string>
+    <string name="edit_Text">请输入序号: </string>
+    <string name="button_query">查询</string>
+    <string name="show_view">这里显示信息</string>
+</resources>
